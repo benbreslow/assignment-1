@@ -1,0 +1,9 @@
+1. mkdir answers
+2. nano answers.txt
+users/bbb31/Desktop/GitHub/assignment-1/answers/answers.txt
+absolute path ^
+5. ls -a
+6. if I am in users/bbb31/Desktop/Github/assignment-1/answers, doing ls .. will get me the files in assignment 1
+7. rm is dangerous because you can't restore the files and they are gone forever, so if I used rm on this answers.txt file, then I would lose all the answers I've written.
+11. cd ../../assignment-1-files/assignment-1-main-main/data
+12. wc -w * | sort -n | head -n 2
